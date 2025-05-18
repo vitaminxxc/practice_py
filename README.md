@@ -29,21 +29,6 @@ Write a Python program that does the following:
   - Division
 - Displays the result of each operation.
 
----
 
-## Example Output
 
-```bash
-Enter your first name: Alice
-Enter your last name: Johnson
 
-Hello Alice Johnson! Welcome!
-
-Enter the first number: 20
-Enter the second number: 4
-
-Results:
-Addition: 24
-Subtraction: 16
-Multiplication: 80
-Division: 5.0
